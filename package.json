@@ -1,0 +1,27 @@
+{
+  "name": "landing-page-greensock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w-b-dev/landing-page-greensock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w-b-dev/landing-page-greensock/issues"
+  },
+  "homepage": "https://github.com/w-b-dev/landing-page-greensock#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "lite-server": "^2.6.1",
+    "prettier": "^2.2.1"
+  }
+}
